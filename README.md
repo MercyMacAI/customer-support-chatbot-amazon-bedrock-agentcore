@@ -44,23 +44,23 @@ AWS Lambda
    v
 Amazon DynamoDB
 
-Key Capabilities
+# Key Capabilities 
 
-##Intelligent Request Routing##
+## Intelligent Request Routing
 
 Incoming customer messages are classified into distinct support behaviors and routed accordingly.
 
-##Bug Report Collection##
+## Bug Report Collection
 
 The assistant collects three required fields before creating a bug report:
 
-Bug description
-Steps to reproduce
-Customer environment
+## Bug description
+## Steps to reproduce
+## Customer environment
 
 The bug-report tool is only called after the required information has been collected.
 
-##FAQ Grounding##
+## FAQ Grounding
 
 Platform questions are answered using the provided online_shop_faq.md document.
 
