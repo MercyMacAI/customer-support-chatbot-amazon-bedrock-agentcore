@@ -1,0 +1,16 @@
+{
+  "region": "us-east-1",
+  "stack_name": "bug-report-tool-stack",
+  "table_name": "<DYNAMODB_TABLE_NAME>",
+  "lambda_arn": "<LAMBDA_ARN>",
+  "gateway_name": "bug-report-tool-stack-gateway",
+  "gateway_id": "<GATEWAY_ID>",
+  "gateway_arn": "<GATEWAY_ARN>",
+  "gateway_target_id": "<GATEWAY_TARGET_ID>",
+  "gateway_target_name": "bugreports",
+  "harness_execution_role_arn": "<HARNESS_EXECUTION_ROLE_ARN>",
+  "harness_name": "support_chatbot",
+  "harness_id": "<HARNESS_ID>",
+  "harness_arn": "<HARNESS_ARN>",
+  "model_id": "us.amazon.nova-pro-v1:0"
+}

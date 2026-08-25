@@ -1,0 +1,5 @@
+{
+  "description": "The checkout page crashes when I click the Pay button",
+  "stepsToReproduce": "1. Add an item to the cart. 2. Go to checkout. 3. Click Pay.",
+  "environment": "Chrome 120 on macOS Sonoma"
+}
